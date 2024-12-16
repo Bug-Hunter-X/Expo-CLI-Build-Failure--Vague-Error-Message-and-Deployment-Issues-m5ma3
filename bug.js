@@ -1,0 +1,1 @@
+While developing a React Native app using Expo CLI, I encountered an unusual error during the build process. The error message was vague and didn't pinpoint the exact cause. The build process would halt, and the app wouldn't deploy to my iOS simulator or Android emulator.
